@@ -1,0 +1,39 @@
+# Blender MTL File: 'ship.blend'
+# Material Count: 3
+
+newmtl Material.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_rope_normal.png
+map_Kd T_rope_basecolor.jpg
+map_Ns T_rope_roughness.jpg
+
+newmtl Wooden_Planks_floor
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump ulxqccdaw_4K_Normal.jpg
+map_Ns ulxqccdaw_4K_Roughness.jpg
+map_Kd ulxqccdaw_4K_Albedo.jpg
+
+newmtl steel
+Ns 300.451971
+Ka 1.000000 1.000000 1.000000
+Kd 0.321861 0.321861 0.321861
+Ks 0.469091 0.469091 0.469091
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd T_rope_basecolor.jpg
